@@ -1,2 +1,0 @@
-if "haha":
-  print("haha")
